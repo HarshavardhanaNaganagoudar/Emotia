@@ -63,7 +63,7 @@ Here's how Emotia is structured:
 ---
 ## 📺 Demo Video
 
-🎥 [Watch the Emotia Demo on YouTube](https://youtu.be/AVnyiI5V_g0?si=8V1WkoBTXV8aR4Ek)
+🎥 [Watch the Emotia Demo on YouTube](https://youtu.be/WObX5upcBlQ?si=_dG5mPKbXyd0f39k)
 
 ---
 
