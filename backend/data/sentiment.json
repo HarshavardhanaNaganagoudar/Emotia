@@ -1,0 +1,76 @@
+{
+  "2025": {
+    "February": {
+      "sentiment": 0,
+      "positiveCount": 2,
+      "negativeCount": 2,
+      "lastUpdated": "2025-10-21T03:45:14.916Z"
+    },
+    "January": {
+      "sentiment": 1,
+      "positiveCount": 3,
+      "negativeCount": 0,
+      "lastUpdated": "2025-10-21T03:58:19.660Z"
+    },
+    "March": {
+      "sentiment": 1,
+      "positiveCount": 1,
+      "negativeCount": 0,
+      "lastUpdated": "2025-10-21T04:01:53.621Z"
+    },
+    "April": {
+      "sentiment": 0.3333333333333333,
+      "positiveCount": 2,
+      "negativeCount": 1,
+      "lastUpdated": "2025-10-21T04:02:35.031Z"
+    },
+    "May": {
+      "sentiment": 1,
+      "positiveCount": 2,
+      "negativeCount": 0,
+      "lastUpdated": "2025-10-21T04:06:24.434Z"
+    },
+    "June": {
+      "sentiment": -1,
+      "positiveCount": 0,
+      "negativeCount": 1,
+      "lastUpdated": "2025-10-21T04:07:08.277Z"
+    },
+    "July": {
+      "sentiment": -1,
+      "positiveCount": 0,
+      "negativeCount": 1,
+      "lastUpdated": "2025-10-21T04:07:38.363Z"
+    },
+    "August": {
+      "sentiment": -1,
+      "positiveCount": 0,
+      "negativeCount": 1,
+      "lastUpdated": "2025-10-21T05:12:38.736Z"
+    },
+    "September": {
+      "sentiment": 1,
+      "positiveCount": 1,
+      "negativeCount": 0,
+      "lastUpdated": "2025-10-21T04:09:03.451Z"
+    },
+    "October": {
+      "sentiment": -1,
+      "positiveCount": 0,
+      "negativeCount": 2,
+      "lastUpdated": "2025-10-21T04:09:26.237Z"
+    },
+    "November": {
+      "sentiment": 0.3333333333333333,
+      "positiveCount": 2,
+      "negativeCount": 1,
+      "lastUpdated": "2025-10-21T04:09:44.352Z"
+    },
+    "December": {
+      "sentiment": -1,
+      "positiveCount": 0,
+      "negativeCount": 1,
+      "lastUpdated": "2025-10-21T04:10:03.986Z"
+    }
+  }
+}
